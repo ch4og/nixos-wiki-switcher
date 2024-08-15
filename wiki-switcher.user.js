@@ -23,8 +23,8 @@
 
     const redirectButton = document.createElement('button');
     redirectButton.textContent = url.includes('nixos.wiki')
-      ? 'Redirect to wiki.nixos.org'
-      : 'Redirect to nixos.wiki';
+      ? 'Go to wiki.nixos.org'
+      : 'Go to nixos.wiki';
     redirectButton.onclick = () => {
       window.location.href = redirectUrl;
     };
