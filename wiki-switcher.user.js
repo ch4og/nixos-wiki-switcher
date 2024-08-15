@@ -2,7 +2,7 @@
 // @name         NixOS Wiki Switcher
 // @namespace    nixos-wiki-switcher
 // @homepageURL  https://github.com/ch4og/nixos-wiki-switcher
-// @version      0.1
+// @version      0.2
 // @description  Switches between wiki.nixos.org and nixos.wiki
 // @author       ch4og
 // @match        *://wiki.nixos.org/*
